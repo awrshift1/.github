@@ -31,7 +31,6 @@ Just start talking. Your AI already knows the entire framework.
 - [awrshift Framework](https://github.com/awrshift1/awrshift) — main repo
 - [Examples](https://github.com/awrshift1/awrshift/tree/main/examples) — real-world walkthroughs (code and life decisions)
 - [How to Give Your AI a Memory](https://github.com/awrshift1/awrshift/blob/main/docs/brain.md) — 3-file context system
-- [Glyte](https://github.com/awrshift1/glyte) — open-source analytics that explains itself
 - [awrshift.com](https://awrshift.com) — website
 
 ---
