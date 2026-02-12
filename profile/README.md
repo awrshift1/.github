@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>AWShift</strong><br>
+  <strong>awareshift</strong><br>
   <em>Think before you build.</em>
 </p>
 
@@ -10,7 +10,7 @@
 
 ---
 
-**AWShift** is a single markdown file that transforms how your AI agent solves problems. Instead of jumping from problem to solution, your agent researches first, verifies the plan, and pauses at human checkpoints for your approval.
+**awareshift** is a single markdown file that transforms how your AI agent solves problems. Instead of jumping from problem to solution, your agent researches first, verifies the plan, and pauses at human checkpoints for your approval.
 
 **Research first. 3 modes. 5 human checkpoints. 0 dependencies.**
 
