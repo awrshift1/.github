@@ -24,7 +24,7 @@ Or copy [`framework/awshift.md`](https://github.com/awshifthq/awshift/blob/main/
 
 ### Links
 
-- [AWShift Framework](https://github.com/awshifthq/awshift) — main repo
+- [awareshift Framework](https://github.com/awshifthq/awshift) — main repo
 - [Examples](https://github.com/awshifthq/awshift/tree/main/examples) — real-world walkthroughs (code and life decisions)
 - [awshift.com](https://awshift.com) — website
 
